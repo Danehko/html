@@ -1,12 +1,12 @@
 # Curso HTML5
 [Aulas](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 
-##Ementa do Curso
+## Ementa do Curso
 - [x] 00 – Site Completo
 - [x] 01 – História da Internet
 - [x] 02 – História da HTML
 - [x] 03 – Como Funciona a Internet – by Gustavo Guanabara
-- [ ] 04 – Primeiro Exemplo em HTML5
+- [x] 04 – Primeiro Exemplo em HTML5
 - [ ] 05 – Tags Básicas em HTML5
 - [ ] 06 – Parágrafos, Quebras e Símbolos Especiais
 - [ ] 07 – Formatação de Texto com HTML5 e CSS3
