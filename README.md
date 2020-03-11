@@ -1,0 +1,41 @@
+# Curso HTML5
+[Aulas](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
+
+##Ementa do Curso
+- [x] 00 – Site Completo
+- [x] 01 – História da Internet
+- [x] 02 – História da HTML
+- [x] 03 – Como Funciona a Internet – by Gustavo Guanabara
+- [ ] 04 – Primeiro Exemplo em HTML5
+- [ ] 05 – Tags Básicas em HTML5
+- [ ] 06 – Parágrafos, Quebras e Símbolos Especiais
+- [ ] 07 – Formatação de Texto com HTML5 e CSS3
+- [ ] 08 – Códigos de Cores em HTML5 e CSS3
+- [ ] 09 – Imagens em HTML5
+- [ ] 10 – Formatação de Imagens com CSS3
+- [ ] 11 – Listas em HTML5 com OL e UL
+- [ ] 12 – Links em HTML5
+- [ ] 13 – Menu com CSS3
+- [ ] 14 – Efeitos visuais em CSS3
+- [ ] 15 – Formatação de Interfaces com HTML5
+- [ ] 16 – Cabeçalho em CSS3
+- [ ] 17 – Fontes em CSS3
+- [ ] 18 – Semântica em HTML5
+- [ ] 19 – Tabelas em HTML
+- [ ] 20 – Estilos CSS para Tabelas em HTML5
+- [ ] 21 – Interfaces em HTML5
+- [ ] 22 – Introdução ao JavaScript
+- [ ] 23 – JavaScript com Objetos
+- [ ] 24 – Funções JavaScript
+- [ ] 25 – Integrando JavaScript e HTML5
+- [ ] 26 – Documentos Adicionais
+- [ ] 27 – IFRAME em HTML5
+- [ ] 28 – Mapas de Imagem
+- [ ] 29 – Álbum de Fotos em HTML5 (Parte 1)
+- [ ] 30 – Álbum de Fotos em HTML5 (Parte 2)
+- [ ] 31 – Áudio e Vídeo em HTML5
+- [ ] 32 – Áudio e Vídeo Avançados
+- [ ] 33 – Formulários em HTML5 (parte 1)
+- [ ] 34 – Formulários em HTML5 (parte 2)
+- [ ] 35 – Como Hospedar um Site
+- [ ] 36 – Formulários com JavaScript
