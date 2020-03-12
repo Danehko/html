@@ -2,40 +2,40 @@
 [Aulas](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)
 
 ## Ementa do Curso
-- [x] 00 – Site Completo
-- [x] 01 – História da Internet
-- [x] 02 – História da HTML
-- [x] 03 – Como Funciona a Internet – by Gustavo Guanabara
-- [x] 04 – Primeiro Exemplo em HTML5
-- [ ] 05 – Tags Básicas em HTML5
-- [ ] 06 – Parágrafos, Quebras e Símbolos Especiais
-- [ ] 07 – Formatação de Texto com HTML5 e CSS3
-- [ ] 08 – Códigos de Cores em HTML5 e CSS3
-- [ ] 09 – Imagens em HTML5
-- [ ] 10 – Formatação de Imagens com CSS3
-- [ ] 11 – Listas em HTML5 com OL e UL
-- [ ] 12 – Links em HTML5
-- [ ] 13 – Menu com CSS3
-- [ ] 14 – Efeitos visuais em CSS3
-- [ ] 15 – Formatação de Interfaces com HTML5
-- [ ] 16 – Cabeçalho em CSS3
-- [ ] 17 – Fontes em CSS3
-- [ ] 18 – Semântica em HTML5
-- [ ] 19 – Tabelas em HTML
-- [ ] 20 – Estilos CSS para Tabelas em HTML5
-- [ ] 21 – Interfaces em HTML5
-- [ ] 22 – Introdução ao JavaScript
-- [ ] 23 – JavaScript com Objetos
-- [ ] 24 – Funções JavaScript
-- [ ] 25 – Integrando JavaScript e HTML5
-- [ ] 26 – Documentos Adicionais
-- [ ] 27 – IFRAME em HTML5
-- [ ] 28 – Mapas de Imagem
-- [ ] 29 – Álbum de Fotos em HTML5 (Parte 1)
-- [ ] 30 – Álbum de Fotos em HTML5 (Parte 2)
-- [ ] 31 – Áudio e Vídeo em HTML5
-- [ ] 32 – Áudio e Vídeo Avançados
-- [ ] 33 – Formulários em HTML5 (parte 1)
-- [ ] 34 – Formulários em HTML5 (parte 2)
-- [ ] 35 – Como Hospedar um Site
-- [ ] 36 – Formulários com JavaScript
+- [x] [Aula 00 – Site Completo](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=2&t=4s)
+- [x] [Aula 01 – História da Internet](https://www.youtube.com/watch?v=rsFCVjr5yxc&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=3&t=0s)
+- [x] [Aula 02 – História da HTML](https://www.youtube.com/watch?v=NSmapCNcSyI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=4&t=0s)
+- [x] [Aula 03 – Como Funciona a Internet – by Gustavo Guanabara](https://www.youtube.com/watch?v=LMfeZ6XD0No&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=5&t=0s)
+- [x] [Aula 04 – Primeiro Exemplo em HTML5](https://www.youtube.com/watch?v=yCSSsBNBzso&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=7&t=0s)
+- [X] [Aula 05 – Tags Básicas em HTML5](https://www.youtube.com/watch?v=EANOXuQsglo&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=8&t=389s)
+- [ ] [Aula 06 – Parágrafos, Quebras e Símbolos Especiais](https://www.youtube.com/watch?v=wlgU9ltZwqc&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=9&t=0s)
+- [ ] [Aula 07 – Formatação de Texto com HTML5 e CSS3](https://www.youtube.com/watch?v=oQExPqFT7ec&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=10&t=0s)
+- [ ] [Aula 08 – Códigos de Cores em HTML5 e CSS3](https://www.youtube.com/watch?v=KX3GLDvKJzI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=11&t=0s)
+- [ ] [Aula 09 – Imagens em HTML5](https://www.youtube.com/watch?v=w1Mf4hPXurs&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=12&t=0s)
+- [ ] [Aula 10 – Formatação de Imagens com CSS3](https://www.youtube.com/watch?v=A3mlsAk4G2k&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=13&t=0s)
+- [ ] [Aula 11 – Listas em HTML5 com OL e UL](https://www.youtube.com/watch?v=EbVG8_5Pyz0&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=14&t=0s)
+- [ ] [Aula 12 – Links em HTML5](https://www.youtube.com/watch?v=WX9vucyEcJs&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=15&t=0s)
+- [ ] [Aula 13 – Menu com CSS3](https://www.youtube.com/watch?v=kU7b9olDWns&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=16&t=0s)
+- [ ] [Aula 14 – Efeitos visuais em CSS3](https://www.youtube.com/watch?v=fN3Gp9DOI7U&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=17&t=0s)
+- [ ] [Aula 15 – Formatação de Interfaces com HTML5](https://www.youtube.com/watch?v=mSmz6jy4YbI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=18&t=0s)
+- [ ] [Aula 16 – Cabeçalho em CSS3](https://www.youtube.com/watch?v=1a5lQhBW2PI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=19&t=0s)
+- [ ] [Aula 17 – Fontes em CSS3](https://www.youtube.com/watch?v=tcrxYeE-67A&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=20&t=0s)
+- [ ] [Aula 18 – Semântica em HTML5](https://www.youtube.com/watch?v=unvKmK3wZEQ&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=21&t=0s)
+- [ ] [Aula 19 – Tabelas em HTML](https://www.youtube.com/watch?v=PQzUj5Hd0jk&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=22&t=0s)
+- [ ] [Aula 20 – Estilos CSS para Tabelas em HTML5](https://www.youtube.com/watch?v=-RCsJvfFKgw&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=23&t=0s)
+- [ ] [Aula 21 – Interfaces em HTML5](https://www.youtube.com/watch?v=QMAe5GMT_Ew&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=24&t=0s)
+- [ ] [Aula 22 – Introdução ao JavaScript](https://www.youtube.com/watch?v=jXPU0uAzmYY&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=25&t=0s)
+- [ ] [Aula 23 – JavaScript com Objetos](https://www.youtube.com/watch?v=zfrX_VZ5Fb4&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=26&t=0s)
+- [ ] [Aula 24 – Funções JavaScript](https://www.youtube.com/watch?v=5fgd60pzKks&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=27&t=0s)
+- [ ] [Aula 25 – Integrando JavaScript e HTML5](https://www.youtube.com/watch?v=UrIWMJIhwTU&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=28&t=0s)
+- [ ] [Aula 26 – Documentos Adicionais](https://www.youtube.com/watch?v=fUFMHMWP9YM&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=29&t=0s)
+- [ ] [Aula 27 – IFRAME em HTML5](https://www.youtube.com/watch?v=WRcs8rebZtA&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=30&t=0s)
+- [ ] [Aula 28 – Mapas de Imagem](https://www.youtube.com/watch?v=KcJzovbw_yY&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=31&t=0s)
+- [ ] [Aula 29 – Álbum de Fotos em HTML5 (Parte 1)](https://www.youtube.com/watch?v=Dvq1yWmrQNU&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=32&t=0s)
+- [ ] [Aula 30 – Álbum de Fotos em HTML5 (Parte 2)](https://www.youtube.com/watch?v=g7d8pbEu3oM&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=33&t=0s)
+- [ ] [Aula 31 – Áudio e Vídeo em HTML5](https://www.youtube.com/watch?v=SDAr3NIbIVM&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=34&t=0s)
+- [ ] [Aula 32 – Áudio e Vídeo Avançados](https://www.youtube.com/watch?v=90uPbUirZ3I&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=35&t=0s)
+- [ ] [Aula 33 – Formulários em HTML5 (parte 1)](https://www.youtube.com/watch?v=metoFY-x_yg&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=36&t=0s)
+- [ ] [Aula 34 – Formulários em HTML5 (parte 2)](https://www.youtube.com/watch?v=lwuDJN9Udfc&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=37&t=0s)
+- [ ] [Aula 35 – Como Hospedar um Site](https://www.youtube.com/watch?v=31eGheRQACI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=38&t=0s)
+- [ ] [Aula 36 – Formulários com JavaScript](https://www.youtube.com/watch?v=YY5hqlcbfoI&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&index=39&t=0s)
